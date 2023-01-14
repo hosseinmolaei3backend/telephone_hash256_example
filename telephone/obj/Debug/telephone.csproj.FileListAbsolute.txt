@@ -1,0 +1,21 @@
+C:\Users\HP LAP\source\repos\telephone\telephone\bin\Debug\telephone.exe.config
+C:\Users\HP LAP\source\repos\telephone\telephone\bin\Debug\telephone.exe
+C:\Users\HP LAP\source\repos\telephone\telephone\bin\Debug\telephone.pdb
+C:\Users\HP LAP\source\repos\telephone\telephone\obj\Debug\telephone.csprojAssemblyReference.cache
+C:\Users\HP LAP\source\repos\telephone\telephone\obj\Debug\telephone.Form1.resources
+C:\Users\HP LAP\source\repos\telephone\telephone\obj\Debug\telephone.Properties.Resources.resources
+C:\Users\HP LAP\source\repos\telephone\telephone\obj\Debug\telephone.csproj.GenerateResource.cache
+C:\Users\HP LAP\source\repos\telephone\telephone\obj\Debug\telephone.csproj.CoreCompileInputs.cache
+C:\Users\HP LAP\source\repos\telephone\telephone\obj\Debug\telephone.exe
+C:\Users\HP LAP\source\repos\telephone\telephone\obj\Debug\telephone.pdb
+H:\برنامه های دکستاب 2022.3.29\دانشگاه\telephone\telephone\bin\Debug\telephone.exe.config
+H:\برنامه های دکستاب 2022.3.29\دانشگاه\telephone\telephone\bin\Debug\telephone.exe
+H:\برنامه های دکستاب 2022.3.29\دانشگاه\telephone\telephone\bin\Debug\telephone.pdb
+H:\برنامه های دکستاب 2022.3.29\دانشگاه\telephone\telephone\obj\Debug\telephone.csproj.AssemblyReference.cache
+H:\برنامه های دکستاب 2022.3.29\دانشگاه\telephone\telephone\obj\Debug\telephone.csproj.SuggestedBindingRedirects.cache
+H:\برنامه های دکستاب 2022.3.29\دانشگاه\telephone\telephone\obj\Debug\telephone.Form1.resources
+H:\برنامه های دکستاب 2022.3.29\دانشگاه\telephone\telephone\obj\Debug\telephone.Properties.Resources.resources
+H:\برنامه های دکستاب 2022.3.29\دانشگاه\telephone\telephone\obj\Debug\telephone.csproj.GenerateResource.cache
+H:\برنامه های دکستاب 2022.3.29\دانشگاه\telephone\telephone\obj\Debug\telephone.csproj.CoreCompileInputs.cache
+H:\برنامه های دکستاب 2022.3.29\دانشگاه\telephone\telephone\obj\Debug\telephone.exe
+H:\برنامه های دکستاب 2022.3.29\دانشگاه\telephone\telephone\obj\Debug\telephone.pdb
